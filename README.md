@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## release 
 * [todoist-cli](https://github.com/Jemo69/todoist-cli/) - a project to let me see my todo list for my terminal
-* [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative to appflowy which do database operation with appfllowy through the api 
+* [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative called  appflowy which do database operation with appfllowy through the api 
 ## upcoming 
 OpenPsalm - Opensource version of video psalm (coming soon) 
 
