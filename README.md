@@ -1,6 +1,6 @@
 # 💫 About Me:
-I know python javascript typescript and go and I'm try to learn rust 
-
+* [todoist-cli](https://github.com/Jemo69/todoist-cli/tree/master) - a project to let me see my todo list for my terminal
+  
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jemolife.bsky.social) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@jemolife) 
