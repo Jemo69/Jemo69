@@ -2,7 +2,8 @@
 ## release 
 * [todoist-cli](https://github.com/Jemo69/todoist-cli/) - a project to let me see my todo list for my terminal
 * [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative called  appflowy which do database operation with appfllowy through the api
-* [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement 
+* [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement
+* [Youtube MCP](https://github.com/Jemo69/Youtube-MCP/) - really liked the youtube tool in the gemini app so started let me copy and add to any ai  
 ## upcoming 
 OpenPsalm - Opensource version of video psalm (coming soon) 
 
