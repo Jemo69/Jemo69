@@ -4,7 +4,8 @@
 * [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative called  appflowy which do database operation with appfllowy through the api
 * [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement
 * [Youtube MCP](https://github.com/Jemo69/Youtube-MCP/) - really liked the youtube tool in the gemini app so started let me copy and add to any ai
-* [Research agent](https://github.com/Jemo69/research-agent) - this was basic project that use to learn langgraph 
+* [Research agent](https://github.com/Jemo69/research-agent) - this was basic project that use to learn langgraph
+* [AppflowySDK](https://github.com/Jemo69/Appflowy-SDK) - this is appflowy api wrapper for python user if you want to do anything with appflowy i think this will make it easier 
 ## upcoming 
 OpenPsalm - Opensource version of video psalm (coming soon) 
 
