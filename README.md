@@ -5,7 +5,11 @@
 * [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement
 * [Youtube MCP](https://github.com/Jemo69/Youtube-MCP/) - really liked the youtube tool in the gemini app so started let me copy and add to any ai
 * [Research agent](https://github.com/Jemo69/research-agent) - this was basic project that use to learn langgraph
-* [AppflowySDK](https://github.com/Jemo69/Appflowy-SDK) - this is appflowy api wrapper for python user if you want to do anything with appflowy i think this will make it easier 
+* [AppflowySDK](https://github.com/Jemo69/Appflowy-SDK) - this is appflowy api wrapper for python user if you want to do anything with appflowy i think this will make it easier
+  ---
+  ## demo project
+  * [test-harness](https://github.com/Jemo69/harness) - this is my example harness with just basic read file list file and edit file tool 
+  
 ## upcoming 
 OpenPsalm - Opensource version of video psalm (coming soon) 
 
