@@ -10,8 +10,7 @@
 ## demo project
   * [test-harness](https://github.com/Jemo69/harness) - this is my example harness with just basic read file list file and edit file tool 
   
-## upcoming 
-OpenPsalm - Opensource version of video psalm (coming soon) 
+
 
   
 
