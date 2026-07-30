@@ -1,5 +1,15 @@
 # 💫 About Me:
-<br><br>## release <br>* [todoist-cli](https://github.com/Jemo69/todoist-cli/) - a project to let me see my todo list for my terminal<br>* [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative called  appflowy which do database operation with appfllowy through the api<br>* [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement<br>* [Youtube MCP](https://github.com/Jemo69/Youtube-MCP/) - really liked the youtube tool in the gemini app so started let me copy and add to any ai<br>* [Research agent](https://github.com/Jemo69/research-agent) - this was basic project that use to learn langgraph<br>* [AppflowySDK](https://github.com/Jemo69/Appflowy-SDK) - this is appflowy api wrapper for python user if you want to do anything with appflowy i think this will make it easie<br>---<br>## demo project<br>  * [test-harness](https://github.com/Jemo69/harness) - this is my example harness with just basic read file list file and edit file tool <br>  <br>
+<br><br>
+## release <br>
+* [todoist-cli](https://github.com/Jemo69/todoist-cli/) - a project to let me see my todo list for my terminal<br>
+* [Appflowy MCP](https://github.com/Jemo69/Appflowy-MCP) - this is MCP for open soucres notion alternative called  appflowy which do database operation with appfllowy through the api<br>
+* [Ytsegment](https://github.com/Jemo69/ytsegment) - this download a youtube video and cut into 15 minutes segement<br>
+* [Youtube MCP](https://github.com/Jemo69/Youtube-MCP/) - really liked the youtube tool in the gemini app so started let me copy and add to any ai<br>
+* [Research agent](https://github.com/Jemo69/research-agent) - this was basic project that use to learn langgraph<br>
+* [AppflowySDK](https://github.com/Jemo69/Appflowy-SDK) - this is appflowy api wrapper for python user if you want to do anything with appflowy i think this will make it easie<br>
+<br>
+## demo project<br>  
+* [test-harness](https://github.com/Jemo69/harness) - this is my example harness with just basic read file list file and edit file tool <br>  <br>
 
 
 ## 🌐 Socials:
